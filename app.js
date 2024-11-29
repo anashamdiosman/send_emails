@@ -30,7 +30,6 @@ const emails = [
   "careers@rawafed.ae",
   "clientmiddleeast@hays.com",
   "corporate.communications@randstad.com",
-  "info@akrs.ae",
   "info@almansoorgroup.com",
   "mansoor@emirates.net.ae",
   "jobseekers@jvi-global.com",
